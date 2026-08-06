@@ -79,7 +79,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/Diavol39/Tonikaku-Kawaii-Wallpaper/main/Tsukasa%20Wallpaper%20Candidate%20%233.jpg",
     "blur": 0,
-    "alpha": 0.0,
+    "alpha": 0.30,
     "size": "cover",
     "position": "center top"
   },
